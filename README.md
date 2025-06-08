@@ -50,7 +50,7 @@ Port of departure mattered too. Passengers from Cherbourg had the highest surviv
 
 Overall, survival odds were deeply influenced by age, gender, and especially class, exposing how social inequalities persisted even in a crisis.
 
-
+# Check the uploaded files for the code and visualization :>
 
 
 
